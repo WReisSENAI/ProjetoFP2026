@@ -14,12 +14,12 @@ O objetivo é solucionar o problema de extravio de equipamentos através da tecn
 
 ---
 
-## 🚦 Instruções para os Times (AULA DE HOJE)
+## 🚦 Instruções para os Times
 
 Professor, para garantir que ninguém sobrescreva o código principal, seguiremos este protocolo:
 
 ### 1. Clonar o Repositório Master
 Abra o terminal na sua pasta de projetos e digite:
 ```bash
-git clone [LINK_DO_SEU_REPOSITORIO_AQUI]
-cd [NOME_DA_PASTA]
+git clone https://github.com/WReisSENAI/ProjetoFP2026
+cd ProjetoFP2026
